@@ -66,7 +66,7 @@ class MainFrameTest {
 
     @Test
     void shouldDisplayMainFrameTitle() {
-        window.requireTitle("UCRED Movies Browser");
+        window.requireTitle("ESTO NO ES EL TITULO");
     }
 
     @Test
