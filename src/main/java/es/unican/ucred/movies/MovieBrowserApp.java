@@ -1,4 +1,4 @@
-package es.unican.ucred.movies     /** ; error provocado punto 3 ejercicio 1.2
+package es.unican.ucred.movies; 
 
 import es.unican.ucred.movies.service.ITMDbService;
 import es.unican.ucred.movies.service.TMDbService;
