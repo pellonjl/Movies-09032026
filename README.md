@@ -198,3 +198,5 @@ Universidad de Cantabria
 ---
 
 **Nota**: Esta aplicación requiere conexión a internet para obtener datos de películas desde TMDb. Los pósters y datos se obtienen en tiempo real desde la API.
+
+Pequeño cambio para probar el workflow.
